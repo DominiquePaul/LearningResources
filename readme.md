@@ -10,4 +10,4 @@ This repository is still work in progress. I intend to add more elaborate commen
 
 
 # About myself
-I am Statistics Master student at ETH Zurich. I come from an economics & business background and initially started teaching myself programming, statistics, machine learning, working with the cloud, the basics of good software development during my time at university. Since finishing my Bachelor's degree and especially now at university I find myself taking pleasure in trying to understand some topics bottom up. I spend a lot of time going through many resources and this is an attempt to structure these for myself and for others.
+I am a Statistics Master student at ETH Zurich. I come from an economics & business background and initially started teaching myself programming, statistics, machine learning, working with the cloud, the basics of good software development during my time at university. Since finishing my Bachelor's degree and especially now at university I find myself taking pleasure in trying to understand some topics bottom up. I spend a lot of time going through many resources and this is an attempt to structure these for myself and for others.
