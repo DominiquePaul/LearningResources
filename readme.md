@@ -3,6 +3,11 @@ This is a list of different resources that I found to be the most useful when I 
 
 This repository is still work in progress. I intend to add more elaborate comments on all resources and with different learning paths depending on your background and interests. If you have any questions feel free to reach out to me, always happy to help :)
 
+## Topics so far
+1. [Data Science and Statistical Computing](Resource Lists/Data Science And Statistics.md)
+2. [Quantum Computing](Resource Lists/Quantum Computing.md)
+3. [Genomics and Biostatistics](Resource Lists/Genomics and Biostatistics.md)
+
 
 # About myself
-I am currently a student in Statistics at the ETH Zurich. I come from an economics & business background and initially started teaching myself programming, statistics, machine learning, working with the cloud, the basics of good software development during my time at university. Since finishing my Bachelor's degree and especially now at university I find myself taking pleasure in trying to understand some topics bottom up. I spend a lot of time going through many resources and this is an attempt to structure these for myself and for others. 
+I am currently a student in Statistics at the ETH Zurich. I come from an economics & business background and initially started teaching myself programming, statistics, machine learning, working with the cloud, the basics of good software development during my time at university. Since finishing my Bachelor's degree and especially now at university I find myself taking pleasure in trying to understand some topics bottom up. I spend a lot of time going through many resources and this is an attempt to structure these for myself and for others.
