@@ -3,7 +3,7 @@ This is a list of different resources that I found to be the most useful when I 
 
 This repository is still work in progress. I intend to add more elaborate comments on all resources and with different learning paths depending on your background and interests. If you have any questions feel free to reach out to me, always happy to help :)
 
-## Topics so far
+## Topics included so far
 1. [Data Science and Statistical Computing](Resources/Data_Science_And_Statistics.md)
 2. [Quantum Computing](Resources/Quantum_Computing.md)
 3. [Genomics and Biostatistics](Resources/Genomics_and_Biostatistics.md)
